@@ -1,0 +1,1 @@
+bash pixum.sh "first" "last" "example 123" "12435" "berlin" "test@gmail.com"
